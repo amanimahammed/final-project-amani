@@ -1,5 +1,3 @@
-- 👋Hi, I’m @amanimahammed
-```
 # Musicr - Redefine the Music Player
 **A pretty UI&UX Music Player**
 
