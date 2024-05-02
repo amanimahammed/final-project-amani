@@ -1,3 +1,4 @@
+- 👋 Hi, I’m @amanimahammed
 # Musicr - Redefine the Music Player
 **A pretty UI&UX Music Player**
 
@@ -70,7 +71,7 @@ src="https://user-images.githubusercontent.com/33343210/61610594-c3f7c900-ac83-1
 
 
 * <i bgcolor=red>Shahad Jaber</i>
-* <i><a href="https://github.com/shahadAlasmarii/final-_project">Shahad  Fahad</a></i>
-* <i>Amain Al-Qusi</i>
+* <i>Shahad  Fahad</i>
+* <i><a href="https://github.com/amanimahammed/final-project-amani">Amain Al-Qusi</a></i>
 * <i>Atyaf Abdh</i>
 
